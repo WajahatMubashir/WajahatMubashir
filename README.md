@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Hi There ](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f44b&text=Hi%2520There%2520)](https://pimp-my-readme.webapp.io)
 
 [![Wajahat Mubashir, I'm the Front -End and WordPress Developer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20the%20Front%20-End%20and%20WordPress%20Developer&title=Wajahat%20Mubashir)](https://pimp-my-readme.webapp.io)
 
@@ -13,5 +12,3 @@ Here are some ideas to get you started:
 
 [![JavaScript_HTML_CSS_NodeJS_ReactJS_Express_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_NodeJS_ReactJS_Express_)](https://pimp-my-readme.webapp.io)
 
-
-[![Feel Free To Reach Me.](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f607&text=Feel%2520Free%2520To%2520Reach%2520Me.)](https://pimp-my-readme.webapp.io)

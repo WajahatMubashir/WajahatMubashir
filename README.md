@@ -9,10 +9,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Vue.js
 - 👯 I’m looking to collaborate on JavaScript Projects
 - 💬 Ask me about .JavaScript, CSS, HTML, Jquery, Bootstrap 5.
-- 📫 Reach me: wajahatmubashir85@gmail.com
+- 📫 Reach me: https://www.linkedin.com/in/wajahatwritescode/
 
 [![JavaScript_HTML_CSS_NodeJS_ReactJS_Express_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_NodeJS_ReactJS_Express_)](https://pimp-my-readme.webapp.io)
 
-[![Facebook](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Facebook)](https://www.facebook.com/wajahatmubashir/)
 
 [![Feel Free To Reach Me.](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f607&text=Feel%2520Free%2520To%2520Reach%2520Me.)](https://pimp-my-readme.webapp.io)

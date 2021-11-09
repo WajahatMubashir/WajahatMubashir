@@ -11,4 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about .JavaScript, CSS, HTML, Jquery, Bootstrap 5.
 - 📫 Reach me: wajahatmubashir85@gmail.com
 
+[![JavaScript_HTML_CSS_NodeJS_ReactJS_Express_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_NodeJS_ReactJS_Express_)](https://pimp-my-readme.webapp.io)
 
+[![Facebook](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Facebook)](https://www.facebook.com/wajahatmubashir/)

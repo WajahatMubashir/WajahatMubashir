@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about .JavaScript, CSS, HTML, Jquery, Bootstrap 5.
 - 📫 Reach me: https://www.linkedin.com/in/wajahatwritescode/
 
-[![JavaScript_HTML_CSS_NodeJS_ReactJS_Express_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_NodeJS_ReactJS_Express_)]()
+[![JavaScript_HTML_CSS_NodeJS_ReactJS_Express_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_NodeJS_ReactJS_Express_)](#)
 

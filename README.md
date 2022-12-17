@@ -1,8 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wajahat Mubashir
 ========================================================================================================================================
-Front-End Developer
+WordPress Developer | Front-End Developer
 -------------------
-I’m a highly motivated, experienced Front-End Developer & WordPress and have a passion for creating elegant web-based technologies through code. I am an ambitious type of person who has the drive and energy to make a difference in a project and I bent to explore & learn new things every day in this fascinating world. I’m looking for a new position with an exciting company that wants to attract talented people. Please feel free to message me for any kind of help, guidance, or work.
+I am a WordPress Developer and Front-End Developer with 2 years of experience in the field. I have a strong understanding of web development concepts and have experience working with a variety of technologies, including WordPress, JavaScript, and React.
+I am highly skilled in troubleshooting and debugging issues in WordPress sites, and I have a strong understanding of how to customize and optimize WordPress for maximum performance and functionality. I am also proficient in JavaScript, and I am currently learning React to expand my skillset and stay up-to-date with the latest web development technologies.
+I am a detail-oriented and reliable professional, and I am committed to delivering high-quality work to my clients. I am always eager to learn new technologies and techniques, and I am confident in my ability to adapt quickly to new environments and challenges.
 *   :earth_africa:  I'm based in Pakistan
 *   :email:  You can contact me at [wajahatmubashir85@gmail.com](mailto:wajahatmubashir85@gmail.com)
 *   :brain:  I'm learning React

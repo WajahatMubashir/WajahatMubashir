@@ -2,9 +2,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 WordPress Developer | Front-End Developer
 -------------------
-I am a WordPress Developer and Front-End Developer with 2 years of experience in the field. I have a strong understanding of web development concepts and have experience working with a variety of technologies, including WordPress, JavaScript, and React.
-I am highly skilled in troubleshooting and debugging issues in WordPress sites, and I have a strong understanding of how to customize and optimize WordPress for maximum performance and functionality. I am also proficient in JavaScript, and I am currently learning React to expand my skillset and stay up-to-date with the latest web development technologies.
-I am a detail-oriented and reliable professional, and I am committed to delivering high-quality work to my clients. I am always eager to learn new technologies and techniques, and I am confident in my ability to adapt quickly to new environments and challenges.
+
+With 3+ years as a Web Developer, I specialize in WordPress, JavaScript, and React. I excel in crafting pixel-perfect websites, optimizing for usability, SEO, speed, and accessibility.
+
+My expertise extends to comprehensive website maintenance, including updates, backups, and security scans. I'm skilled in creating engaging landing pages that blend creativity with data-driven design to enhance user experiences.
+
+Proficient in Google Tag Manager (GTM) and Google Analytics 4 (GA4), I leverage these tools for seamless tag management and insightful analytics. I prioritize effective communication and collaboration, ensuring successful project outcomes.
+
+I'm eager to contribute my skills to your projects, bringing digital visions to life while staying at the forefront of innovation in web development.
 *   :earth_africa:  I'm based in Pakistan
 *   :email:  You can contact me at [wajahatmubashir85@gmail.com](mailto:wajahatmubashir85@gmail.com)
 *   :brain:  I'm learning React

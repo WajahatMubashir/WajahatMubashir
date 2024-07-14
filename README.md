@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wajahat Mubashir
 ========================================================================================================================================
-WordPress Developer | Front-End Developer
+Web Developer
 -------------------
 
 With 3+ years as a Web Developer, I specialize in WordPress, JavaScript, and React. I excel in crafting pixel-perfect websites, optimizing for usability, SEO, speed, and accessibility.

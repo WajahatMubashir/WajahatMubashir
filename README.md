@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------------
 
-With 3+ years as a Web Developer, I specialize in WordPress, JavaScript, and React. I excel in crafting pixel-perfect websites, optimizing for usability, SEO, speed, and accessibility.
+With 4 years as a Web Developer, I specialize in WordPress, JavaScript, and React. I excel in crafting pixel-perfect websites, optimizing for usability, SEO, speed, and accessibility.
 
 My expertise extends to comprehensive website maintenance, including updates, backups, and security scans. I'm skilled in creating engaging landing pages that blend creativity with data-driven design to enhance user experiences.
 
